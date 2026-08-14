@@ -9,6 +9,27 @@
 
 ---
 
+## Dashboard Preview
+<!-- Open Uber.pbix in Power BI Desktop → File → Export → Export to Image for each page,
+     then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
+     and swap the src below (same pattern you used for the Car Sales dashboard). -->
+<img width="1297" height="727" alt="Overview Page" src="<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/da252d83-19b0-4f1e-9b02-3553101cebba" />
+" />
+<img width="1297" height="727" alt="Vehicle Page" src="<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/df364538-73ce-4765-a309-ea4948f4cdc3" />
+" />
+<img width="1297" height="727" alt="Overview Page" src="<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/e992eceb-293e-449d-aa22-b6c59fdb7252" />
+" />
+
+## Video Walkthrough
+<!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
+     into a GitHub comment/issue to get a user-attachments video URL, then paste it below. -->
+     
+
+https://github.com/user-attachments/assets/e7e5e5f4-692b-4aff-aed9-62c08ca19c19
+
+
+
+
 ## 📌 Overview
 
 This project analyzes a full year (2025) of Uber ride-booking data — **150,000 trips** — to uncover patterns in ride demand, cancellations, revenue, vehicle-type performance, and customer/driver ratings. The raw data was cleaned and modeled in Excel, then visualized in a 3-page interactive **Power BI dashboard** (Home, Overview, Vehicle) with KPI cards, trend charts, and slicers for dynamic filtering.
@@ -21,44 +42,17 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
+<!-- Open Uber.pbix in Power BI Desktop → File → Export → Export to Image for each page,
+     then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
+     and swap the src below (same pattern you used for the Car Sales dashboard). -->
+<img width="1297" height="727" alt="Overview Page" src="PASTE_YOUR_OVERVIEW_IMAGE_URL_HERE" />
+<img width="1297" height="727" alt="Vehicle Page" src="PASTE_YOUR_VEHICLE_IMAGE_URL_HERE" />
 
-<!-- 📸 ADD YOUR SCREENSHOTS HERE
-     Open Uber.pbix in Power BI Desktop → File → Export → Export to Image (or Alt+PrtScn each page),
-     save them in an /assets folder, then reference them below, e.g.:
-     ![Overview Page](assets/overview.png)
--->
-
-| [Home Page](
-<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/268d35b5-6bbb-4e99-aa07-283abf4a90bd" />
-) | [Overview Page](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/884eb2bc-726e-46af-b3d0-a4da3c571976" />
-) | [Vehicle Page](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/5ae73384-f2d6-4ef8-8209-c218186768a7" />
-) |
-
----
-
-## 🎥 Video Walkthrough
-
-<!-- 🎬 ADD YOUR DEMO VIDEO HERE
-     Record a 1–2 min screen capture (Loom, OBS, or Windows Game Bar) clicking through the
-     Home → Overview → Vehicle pages and using the slicers.
-     GitHub renders short clips (<10MB, .mp4/.mov) if you upload them directly into a comment/README —
-     or embed a thumbnail linking to YouTube/Loom, e.g.:
--->
-
-[![Watch the demo](
-
-https://github.com/user-attachments/assets/8c99bbf1-139f-4b6b-9e5f-aabdebf206cb
-
-
-
-
-
-)](https://your-video-link-here)
-
-*(Click the image above to watch the full dashboard walkthrough)*
-
----
+## Video Walkthrough
+<!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
+     into a GitHub comment/issue to get a user-attachments video URL, then paste it below. -->
+PASTE_YOUR_VIDEO_URL_HERE
 
 ## 📊 Key Insights
 
@@ -144,8 +138,3 @@ uber-ride-analytics/
 
 ---
 
-## 🙋‍♂️ Connect With Me
-
-If you found this project useful, feel free to ⭐ the repo or connect with me on LinkedIn!
-
-<!-- Add your LinkedIn / portfolio links here -->
