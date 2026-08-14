@@ -14,13 +14,13 @@
      then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
      and swap the src below (same pattern you used for the Car Sales dashboard). -->
 Home
-"https://github.com/user-attachments/assets/da252d83-19b0-4f1e-9b02-3553101cebba"
+https://github.com/user-attachments/assets/da252d83-19b0-4f1e-9b02-3553101cebba
 
 Overview
-"https://github.com/user-attachments/assets/df364538-73ce-4765-a309-ea4948f4cdc3"
+https://github.com/user-attachments/assets/df364538-73ce-4765-a309-ea4948f4cdc3
 
 Vehicle
-"https://github.com/user-attachments/assets/e992eceb-293e-449d-aa22-b6c59fdb7252"
+https://github.com/user-attachments/assets/e992eceb-293e-449d-aa22-b6c59fdb7252
 
 ## Video Walkthrough
 <!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
