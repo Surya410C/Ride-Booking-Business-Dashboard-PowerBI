@@ -29,12 +29,10 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
      ![Overview Page](assets/overview.png)
 -->
 
-| Home | Overview | Vehicle |
-|:---:|:---:|:---:|
-| ![Home Page](
+| [Home Page](
 <img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/268d35b5-6bbb-4e99-aa07-283abf4a90bd" />
-) | ![Overview Page](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/884eb2bc-726e-46af-b3d0-a4da3c571976" />
-) | ![Vehicle Page](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/5ae73384-f2d6-4ef8-8209-c218186768a7" />
+) | [Overview Page](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/884eb2bc-726e-46af-b3d0-a4da3c571976" />
+) | [Vehicle Page](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/5ae73384-f2d6-4ef8-8209-c218186768a7" />
 ) |
 
 ---
