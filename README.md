@@ -13,12 +13,14 @@
 <!-- Open Uber.pbix in Power BI Desktop → File → Export → Export to Image for each page,
      then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
      and swap the src below (same pattern you used for the Car Sales dashboard). -->
-<img width="1297" height="727" alt="Overview Page" src="<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/da252d83-19b0-4f1e-9b02-3553101cebba" />
-" />
-<img width="1297" height="727" alt="Vehicle Page" src="<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/df364538-73ce-4765-a309-ea4948f4cdc3" />
-" />
-<img width="1297" height="727" alt="Overview Page" src="<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/e992eceb-293e-449d-aa22-b6c59fdb7252" />
-" />
+Home
+"https://github.com/user-attachments/assets/da252d83-19b0-4f1e-9b02-3553101cebba"
+
+Overview
+"https://github.com/user-attachments/assets/df364538-73ce-4765-a309-ea4948f4cdc3"
+
+Vehicle
+"https://github.com/user-attachments/assets/e992eceb-293e-449d-aa22-b6c59fdb7252"
 
 ## Video Walkthrough
 <!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
