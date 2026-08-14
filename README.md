@@ -8,25 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
 ---
-
-## Dashboard Preview
-<!-- Open Uber.pbix in Power BI Desktop → File → Export → Export to Image for each page,
-     then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
-     and swap the src below (same pattern you used for the Car Sales dashboard). -->
-<img width="1297" height="727" alt="Dashboard_Home png" src="<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/14570d0f-5feb-47c7-bead-cc458a3888e6" />
-<img width="1302" height="727" alt="Dashboard_Overview png" src="<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/ac2b4506-11ee-434e-815d-df01aa4888ac" />
-<img width="1297" height="727" alt="Dashboard_Vehicle png" src="<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/d5c1432b-7757-465e-a30f-9ffdfcb8636d" />
-
-## Video Walkthrough
-<!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
-     into a GitHub comment/issue to get a user-attachments video URL, then paste it below. -->
-     
-
-https://github.com/user-attachments/assets/e7e5e5f4-692b-4aff-aed9-62c08ca19c19
-
-
-
-
 ## 📌 Overview
 
 This project analyzes a full year (2025) of Uber ride-booking data — **150,000 trips** — to uncover patterns in ride demand, cancellations, revenue, vehicle-type performance, and customer/driver ratings. The raw data was cleaned and modeled in Excel, then visualized in a 3-page interactive **Power BI dashboard** (Home, Overview, Vehicle) with KPI cards, trend charts, and slicers for dynamic filtering.
@@ -40,16 +21,16 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 ---
 
 ## Dashboard Preview
-<!-- Open Uber.pbix in Power BI Desktop → File → Export → Export to Image for each page,
-     then drag-and-drop the images into a GitHub comment/issue to get a user-attachments URL,
-     and swap the src below (same pattern you used for the Car Sales dashboard). -->
-<img width="1297" height="727" alt="Overview Page" src="PASTE_YOUR_OVERVIEW_IMAGE_URL_HERE" />
-<img width="1297" height="727" alt="Vehicle Page" src="PASTE_YOUR_VEHICLE_IMAGE_URL_HERE" />
+<img width="1297" height="727" alt="Dashboard_Home png" src="<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/14570d0f-5feb-47c7-bead-cc458a3888e6" />
+<img width="1302" height="727" alt="Dashboard_Overview png" src="<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/ac2b4506-11ee-434e-815d-df01aa4888ac" />
+<img width="1297" height="727" alt="Dashboard_Vehicle png" src="<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/d5c1432b-7757-465e-a30f-9ffdfcb8636d" />
 
 ## Video Walkthrough
 <!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
      into a GitHub comment/issue to get a user-attachments video URL, then paste it below. -->
-PASTE_YOUR_VIDEO_URL_HERE
+     
+
+https://github.com/user-attachments/assets/e7e5e5f4-692b-4aff-aed9-62c08ca19c19
 
 ## 📊 Key Insights
 
