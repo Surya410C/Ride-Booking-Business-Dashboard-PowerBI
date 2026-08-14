@@ -31,7 +31,11 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 
 | Home | Overview | Vehicle |
 |:---:|:---:|:---:|
-| ![Home Page](assets/home.png) | ![Overview Page](assets/overview.png) | ![Vehicle Page](assets/vehicle.png) |
+| ![Home Page](
+<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/268d35b5-6bbb-4e99-aa07-283abf4a90bd" />
+) | ![Overview Page](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/884eb2bc-726e-46af-b3d0-a4da3c571976" />
+) | ![Vehicle Page](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/5ae73384-f2d6-4ef8-8209-c218186768a7" />
+) |
 
 ---
 
@@ -44,7 +48,15 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
      or embed a thumbnail linking to YouTube/Loom, e.g.:
 -->
 
-[![Watch the demo](assets/video-thumbnail.png)](https://your-video-link-here)
+[![Watch the demo](
+
+https://github.com/user-attachments/assets/8c99bbf1-139f-4b6b-9e5f-aabdebf206cb
+
+
+
+
+
+)](https://your-video-link-here)
 
 *(Click the image above to watch the full dashboard walkthrough)*
 
