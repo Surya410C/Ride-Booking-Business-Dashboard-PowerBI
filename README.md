@@ -20,7 +20,7 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 ---
 
 ## 📊 Dashboard Preview
-
+## Home
 <img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/9e2d5fa1-dd78-4e10-9f35-88d4eb8d957b" />
 ## Overview
 <img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/33d0755a-40e0-43b0-ad03-cf739ebf6bdd" />
