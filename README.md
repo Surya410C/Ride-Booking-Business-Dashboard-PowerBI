@@ -21,7 +21,7 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 
 ## 📊 Dashboard Preview
 
-![Uber Analytics Dashboard](https://github.com/Surya410C/Ride-Booking-Business-Dashboard-PowerBI/issues/1#issue-5159072249)
+< https://github.com/Surya410C/Ride-Booking-Business-Dashboard-PowerBI/issues/1#issue-5159072249 />
 ![Uber Analytics Dashboard Overview](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/33d0755a-40e0-43b0-ad03-cf739ebf6bdd" />
 )
 ![Uber Analytics Dashboard Vehicle](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/b9069b5f-a73a-4453-b088-429f08ccacb5" />
