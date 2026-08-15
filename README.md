@@ -19,10 +19,16 @@ This project analyzes a full year (2025) of Uber ride-booking data — **150,000
 
 ---
 
-## Dashboard Preview
-<img width="1297" height="727" alt="Dashboard_Home png" src="<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/14570d0f-5feb-47c7-bead-cc458a3888e6" />
-<img width="1302" height="727" alt="Dashboard_Overview png" src="<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/ac2b4506-11ee-434e-815d-df01aa4888ac" />
-<img width="1297" height="727" alt="Dashboard_Vehicle png" src="<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/d5c1432b-7757-465e-a30f-9ffdfcb8636d" />
+## 📊 Dashboard Preview
+
+![Uber Analytics Dashboard](<img width="1373" height="833" alt="Ride-Booking-Business-Dashboard" src="https://github.com/user-attachments/assets/025fad44-776e-4e62-b89e-d7dbd43a7145" />
+)
+![Uber Analytics Dashboard Overview](<img width="1305" height="830" alt="Ride-Booking-Business-Overview" src="https://github.com/user-attachments/assets/33d0755a-40e0-43b0-ad03-cf739ebf6bdd" />
+)
+![Uber Analytics Dashboard Vehicle](<img width="1303" height="826" alt="Ride-Booking-Business-Vehicle" src="https://github.com/user-attachments/assets/b9069b5f-a73a-4453-b088-429f08ccacb5" />
+)
+
+---
 
 ## Video Walkthrough
 <!-- Drag-and-drop a short screen recording (Home → Overview → Vehicle, using the slicers)
